@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lWU/Vncnndg2Th6xEpLHf+zmk9EK9dWcw7F3fSGBlcUkX/DETP6sYTDAp+Hnc8FRjeeiOFdUhJ4Y5M4bvUKlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Repository\\GildedRose.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maris\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

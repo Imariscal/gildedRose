@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maris\\source\\repos\\GildedRose\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\sulfurastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\sulfurastest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\regularitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\regularitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\conjureditemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\conjureditemtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\moq\\inmemoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\moq\\inmemoryitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\backstagepassestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\backstagepassestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.test\\test\\agedbrietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459DB871-A49D-4FB0-9581-AD37B0A5EB22}|GildedRose.Test\\GildedRose.Test.csproj|solutionrelative:gildedrose.test\\test\\agedbrietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D1BD025-F8AE-4328-A829-7FE21DDACC9C}|GildedRose.App\\GildedRose.App.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.app\\gilldedrose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1BD025-F8AE-4328-A829-7FE21DDACC9C}|GildedRose.App\\GildedRose.App.csproj|solutionrelative:gildedrose.app\\gilldedrose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.service\\gildedroseappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|solutionrelative:gildedrose.service\\gildedroseappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.service\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|solutionrelative:gildedrose.service\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F68DB26-1694-4083-A42D-2F826257A105}|GildedRose.Repository\\GildedRose.Repository.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.repository\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F68DB26-1694-4083-A42D-2F826257A105}|GildedRose.Repository\\GildedRose.Repository.csproj|solutionrelative:gildedrose.repository\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F68DB26-1694-4083-A42D-2F826257A105}|GildedRose.Repository\\GildedRose.Repository.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.repository\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F68DB26-1694-4083-A42D-2F826257A105}|GildedRose.Repository\\GildedRose.Repository.csproj|solutionrelative:gildedrose.repository\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.service\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6433EE2-731C-4F4F-B003-EE67CC25A930}|GildedRose.Service\\GildedRose.Service.csproj|solutionrelative:gildedrose.service\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\baseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\interfaces\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\agedbrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\agedbrie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\backstagepasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\backstagepasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\conjureditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\conjureditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\regularitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\regularitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|c:\\users\\maris\\source\\repos\\gildedrose\\gildedrose.entities\\entities\\sulfurasitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7934C9A4-54DE-4673-9AEA-E1F60F8B9B09}|GildedRose.Entities\\GildedRose.Entities.csproj|solutionrelative:gildedrose.entities\\entities\\sulfurasitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SulfurasTest.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\SulfurasTest.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\SulfurasTest.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\SulfurasTest.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\SulfurasTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:35:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegularItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\RegularItemTests.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\RegularItemTests.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\RegularItemTests.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\RegularItemTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:35:39.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConjuredItemTest.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\ConjuredItemTest.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\ConjuredItemTest.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\ConjuredItemTest.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\ConjuredItemTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:35:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Moq\\InMemoryItemRepository.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Moq\\InMemoryItemRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Moq\\InMemoryItemRepository.cs",
+              "RelativeToolTip": "GildedRose.Test\\Moq\\InMemoryItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:35:18.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackstagePassesTest.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\BackstagePassesTest.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\BackstagePassesTest.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\BackstagePassesTest.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\BackstagePassesTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:34:36.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\BaseTest.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\BaseTest.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\BaseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:34:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgedBrieTest.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\AgedBrieTest.cs",
+              "RelativeDocumentMoniker": "GildedRose.Test\\Test\\AgedBrieTest.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Test\\Test\\AgedBrieTest.cs",
+              "RelativeToolTip": "GildedRose.Test\\Test\\AgedBrieTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:33:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GildedRoseAppService.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\GildedRoseAppService.cs",
+              "RelativeDocumentMoniker": "GildedRose.Service\\GildedRoseAppService.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\GildedRoseAppService.cs",
+              "RelativeToolTip": "GildedRose.Service\\GildedRoseAppService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:30:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "GildedRose.Service\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\Services\\ItemService.cs",
+              "RelativeToolTip": "GildedRose.Service\\Services\\ItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:28:43.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Repository\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "GildedRose.Repository\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Repository\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "GildedRose.Repository\\Repository\\ItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:27:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Repository\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "GildedRose.Repository\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Repository\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "GildedRose.Repository\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:26:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "GildedRose.Service\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Service\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "GildedRose.Service\\Interfaces\\IItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:25:51.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GilldedRose.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.App\\GilldedRose.cs",
+              "RelativeDocumentMoniker": "GildedRose.App\\GilldedRose.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.App\\GilldedRose.cs",
+              "RelativeToolTip": "GildedRose.App\\GilldedRose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:20:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseItem.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\BaseItem.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\BaseItem.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\BaseItem.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\BaseItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:23:23.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BackstagePasses.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\BackstagePasses.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\BackstagePasses.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\BackstagePasses.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\BackstagePasses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:23:22.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConjuredItem.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\ConjuredItem.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\ConjuredItem.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\ConjuredItem.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\ConjuredItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:24:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Interfaces\\IItem.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Interfaces\\IItem.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Interfaces\\IItem.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Interfaces\\IItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:23:33.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegularItem.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\RegularItem.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\RegularItem.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\RegularItem.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\RegularItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:24:13.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SulfurasItem.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\SulfurasItem.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\SulfurasItem.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\SulfurasItem.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\SulfurasItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:24:04.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgedBrie.cs",
+              "DocumentMoniker": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\AgedBrie.cs",
+              "RelativeDocumentMoniker": "GildedRose.Entities\\Entities\\AgedBrie.cs",
+              "ToolTip": "C:\\Users\\maris\\source\\repos\\GildedRose\\GildedRose.Entities\\Entities\\AgedBrie.cs",
+              "RelativeToolTip": "GildedRose.Entities\\Entities\\AgedBrie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T03:23:18.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

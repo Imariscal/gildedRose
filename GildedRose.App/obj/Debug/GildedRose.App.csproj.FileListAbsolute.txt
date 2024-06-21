@@ -1,0 +1,14 @@
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.App.exe.config
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.App.exe
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.App.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Entities.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Repository.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Service.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Entities.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Repository.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\bin\Debug\GildedRose.Service.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\obj\Debug\GildedRose.App.csproj.AssemblyReference.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\obj\Debug\GildedRose.App.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\obj\Debug\GildedRo.0CC3D925.Up2Date
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\obj\Debug\GildedRose.App.exe
+C:\Users\maris\source\repos\GildedRose\GildedRose.App\obj\Debug\GildedRose.App.pdb

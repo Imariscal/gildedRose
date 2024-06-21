@@ -1,0 +1,13 @@
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\bin\Debug\netstandard2.0\GildedRose.Repository.deps.json
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\bin\Debug\netstandard2.0\GildedRose.Repository.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\bin\Debug\netstandard2.0\GildedRose.Repository.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\bin\Debug\netstandard2.0\GildedRose.Entities.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\bin\Debug\netstandard2.0\GildedRose.Entities.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.csproj.AssemblyReference.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.AssemblyInfo.cs
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRo.C49A62A3.Up2Date
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.Repository\obj\Debug\netstandard2.0\GildedRose.Repository.pdb

@@ -1,0 +1,10 @@
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\bin\Debug\netstandard2.0\GildedRose.Entities.deps.json
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\bin\Debug\netstandard2.0\GildedRose.Entities.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\bin\Debug\netstandard2.0\GildedRose.Entities.pdb
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.csproj.AssemblyReference.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.AssemblyInfoInputs.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.AssemblyInfo.cs
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.dll
+C:\Users\maris\source\repos\GildedRose\GildedRose.Entities\obj\Debug\netstandard2.0\GildedRose.Entities.pdb
